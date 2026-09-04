@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "herohunter02.aternos.me",
+    "port": 28588,
     "version": "1.21.1"
   },
   "position": {
